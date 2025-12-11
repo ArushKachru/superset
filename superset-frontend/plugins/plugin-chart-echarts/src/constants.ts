@@ -82,8 +82,8 @@ export const StackControlOptions: [
 ][] = [
   [null, t('None')],
   [StackControlsValue.Stack, t('Stack')],
-  [StackControlsValue.Stream, t('Stream')],
 ];
+
 
 export const AreaChartStackControlOptions: [
   JsonValue,
